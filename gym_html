@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>fitnessfactory.com</title>
+    <link rel="stylesheet" href="gym.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav id = "navbar">
+        <div id="logo">
+            <img src="logo.png" alt="FITNESS-FACTORY"> 
+        </div>
+        <ul>
+            <li class="li"><a href="#sec1">HOME</a></li>
+            <li class="li"><a href="#sec5">PRICE PLAN</a></li>
+            <li class="li"><a href="#sec2">WHY JOIN</a></li>
+            <li class="li"><a href="#sec6">GALLERY</a></li>
+            <li class="li"><a href="#sec4">SCHEDULE</a></li>
+            <li class="li"><a href="#sec8">CONTACT</a></li>
+        </ul>
+    </nav>
+    <section id="sec1">
+<h1>OPTIMIZE YOUR</h1>
+<h1>HEALTH</h1>
+<!-- <button class="btn" src="#sec7">JOIN US NOW</button> -->
+<a class="btn" href="#sec7">JOIN US NOW</a>
+</section>
+
+<!-- sec2 for successful story -->
+    <section id="sec2">
+        <h1>WHY CHOOSE FITNESS-FACTORY</h1>
+        <div class="maindiv">
+            <div class="sec2div1">
+                    <h2>CHALLENGING WORKOUTS</h1>
+                    <p>If you are looking to take your workouts to the next level, workouts that are guaranteed to burn lots of calories, fat, build lean muscle, and produce long-lasting results, then you’ve come to the right place! But, if your idea of a workout is to walk on a treadmill and read a newspaper, then stick to the gym!</p>
+            </div>
+            <div class="sec2div2">
+                  <!-- <div class="sec2div2div"> -->
+                    <h2>EXERCISE VARIETY</h1>
+                    <p>It is very unlikely that you will find two workouts exactly the same at Gladiator Fitness. Over the years I have developed dozens of heart throbbing, muscle building workouts, using just your bodyweight and dumbbells.</p>
+                  <!-- </div> -->
+            </div>
+            <div class="sec2div3">
+                    <h2>NUTRITIONAL COUNSELING</h1>
+                    <p> In our program, we place a huge emphasis on both exercise and nutrition, which is why every member who joins our ranks receives a one-hour nutritional consultation as part of their enlistment. Professional nutritional counseling, seminars.</p>
+            </div>
+        </div>
+    </section>
+                
+<!-- sec 3 choose our program -->
+         <section id="sec3">
+                    <h1>CHOOSE YOUR PROGRAM</h1>
+                    <p>Our fitnessfactory experts can help you discover new training techniques and exercises that<br/> offer a dynamic and efficient full-body workout.</p>
+         </section>
+    <!-- sec 4 about Schedule      -->
+          <section id="sec4">
+          <div class="sec4div">
+              <h1>Schedule</h1>
+              <div class="tablecontainer">
+                  <table class="content-table" cellspace="5px">
+                      <tbody>
+                          <tr class="row" id="row1">
+                              <td>Body Balance</td>
+                              <td>7:00am — 11:00am</td>
+                              <td> Josh White</td>
+                              <td><a href="#sec7">Join Now</a></td>
+                          </tr>
+                          <!-- <hr/> -->
+                          <tr class="row" id="row2">
+                              <td>Yoga</td>
+                              <td>8:00am — 10:00am</td>
+                              <td>  Bruce Marss</td>
+                              <td><a href="#sec7">Join Now</a></td>
+                              <!-- <hr/> -->
+                          </tr>
+                          <tr class="row" id="row3">
+                              <td>Running</td>
+                              <td>8:00am — 11:00am</td>
+                              <td> David Holmes</td>
+                              <td><a href="#sec7">Join Now</a></td>
+                          </tr>
+                          <tr class="row" id="row4">
+                              <td>Weight Lifting</td>
+                              <td>6:00am — 10:00am</td>
+                              <td> David Holmes</td>
+                              <td><a href="#sec7">Join Now</a></td>
+                          </tr>
+                          <tr class="row" id="row5">
+                              <td>Spinning Class</td>
+                              <td>7:00am — 11:00am</td>
+                              <td> David Holmes</td>
+                              <td><a href="#sec7">Join Now</a></td>
+                          </tr>
+                      </tbody>
+                  </table>
+              </div>
+          </div>
+          </section>
+<!-- ITS ALL ABOUT SCRTION 5 PRICE SECTION-->
+    <section id="sec5">
+        <div class="sec5div">
+            <div class="sec5written-contant">
+                <h1>CHOOSE YOUR PRICING PLAN</h1>
+                <p>These reports started to surface when Congress was having hearings about the<br/>
+                   painkiller, Vioxx. A Food and Drug Administration staff member.</p>
+            </div>
+            <div class="sec5ROW">
+                <!-- NORMAL DIV -->
+                <div class="normal">
+                    <h4>NORMAL</h4>
+                    <div class="price-plan-NORMAL">
+                        <h4>₹</h4>
+                        <h2>1000</h2>
+                        <p>MONTHLY</p>
+                    </div>
+                    <ul>
+                        <li>Unlimited access to the gym</li>
+                        <li>1 classes per week</li>
+                        <li>FREE drinking package</li>
+                        <li>1 Free personal training</li>
+                    </ul>
+                    <a href="#" class="normal-btn">GET STARTED</a>
+                </div>
+                <!-- PROFFESIONAL DIV -->
+                <div class="professional">
+                    <h4>PROFESSIONAL</h4>
+                    <div class="price-plan-PROFESSIONAL">
+                        <h4>₹</h4>
+                        <h2>1500</h2>
+                        <p>MONTHLY</p>
+                    </div>
+                    <ul>
+                        <li>Unlimited access to the gym</li>
+                        <li>2 classes per week</li>
+                        <li>FREE drinking package</li>
+                        <li>2 Free personal training</li>
+                    </ul>
+                    <a href="#" class="professional-btn">GET STARTED</a>
+                </div>
+                <!-- ADVANSED DIV -->
+                <div class="advanced">
+                    <h4>ADVANCED</h4>
+                    <div class="price-plan-ADVANCED">
+                        <h4>₹</h4>
+                        <h2>2000</h2>
+                        <p>MONTHLY</p>
+                    </div>
+                    <ul>
+                        <li>Unlimited access to the gym</li>
+                        <li>6 classes per week</li>
+                        <li>FREE drinking package</li>
+                        <li>5 Free personal training</li>
+                    </ul>
+                    <a href="#" class="advanced-btn">GET STARTED</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- section 6 about GALLARY -->
+            <section id="sec6">
+                <div class="sec6div">
+                 <h1>OUR GALLARY</h1>
+                 <div class="div-gallary">
+                     <div class="gallary-row1">
+                         <div class="row1-pic1">
+
+                         </div>
+                         <div class="row1-pic2">
+
+                         </div>
+                         <div class="row1-pic3">
+
+                         </div> 
+                     </div>
+                     <div class="gallary-row2">
+                        <div class="row2-pic1">
+
+                        </div>
+                        <div class="row2-pic2">
+
+                        </div>
+                        <div class="row2-pic3">
+                            
+                        </div> 
+                     </div>
+                 </div>
+                 </div>
+                </div> 
+            </section>
+    <!-- section 7 about MAP         -->
+    <section class="map" id="sec7">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.3972039685987!2d77.36496331503463!3d28.55783298244727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5f003125a89%3A0x660f5367e5e73eab!2sAnytime%20Fitness!5e0!3m2!1sen!2sin!4v1601220747654!5m2!1sen!2sin" width=1519 height="590" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        <div class="contact">
+            <div class="open-time">
+                <h5>WEEKDAY:</h5>
+                <ul>
+                    <li>weekday:<span>&nbsp;&nbsp;&nbsp;&nbsp;06:30 - 11:00</span></li>
+                    <li>Saturday:<span>&nbsp;&nbsp;&nbsp;&nbsp;07:00 - 22:00</span></li>
+                    <li>Sunday:<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;09:00 - 18:00</span></li>
+                </ul>
+            </div>
+            <div class="contact-form">
+                <h5>JOIN US:</h5>
+                <form action="gym.php" method="POST">
+                    <input type="text" name="name" placeholder="NAME">
+                    <input type="number" name="phone" class="phone" placeholder="PHONE">
+                    <input type="text" name="pricing plan" placeholder="PRICING PLAN">
+                    <input type="email" name="email" placeholder="EMAIL">
+                    <textarea name="message" placeholder="MESSAGE"></textarea>
+                    <button type="submit" value="submit" class="form-btn">SUBMIT NOW</button>
+                </form>
+            </div>
+        </div>
+    </section>    
+   <!-- section 8 about footer  -->
+    <footer class="footer" id="sec8">
+        <div class="footer-contect">
+            <div class="flogo">
+                <a href="#">
+                    <img src="logo.png">
+                </a>
+                <h4>Shape your body and burn fat with strength training. With the right equipment such as free weights or resistance machines.</h4>
+            </div>
+            <div class="fprogram">
+                <h5>PROGAM</h5>
+                <ul>
+                    <li>Bodybuilding</li>
+                    <li>Running</li>
+                    <li>Streching</li>
+                    <li>Weight Loss</li>
+                    <li>Gym Fitness</li>
+                </ul>
+            </div>
+            <div class="fcontect">
+                <h5>GET INFO</h5>
+                <ul>
+                    <li>Phone:</li>
+                    <h6>(+91)6396027126</h6>
+                    <li>Email:</li>
+                    <h6>fitnessfactory@gmail.com</h6>
+                    <li>Address:</li>
+                    <h6>3ed floor aplex tower,tulsi marg,sector 18, south delhi,201301</h6>
+                </ul>
+            </div>
+        </div>
+        <div class="real-footer">
+            
+                <p>Copyright ©2020 All rights reserved   Privacy Policy | Terms Of Service | Careers</p>
+        </div>
+    </footer>    
+</body>
+</html>
